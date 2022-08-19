@@ -11,4 +11,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about Front-end Dev Basic.
 - 📫 How to reach me on Twitter- https://twitter.com/22_Guneet
 - ⚡ Fun fact: Punjabi names are unisexual.
+-
+-
+-
+-
+-
+-
+
+
 - My Website-https://iamguneet.github.io/Portfolio_website/
