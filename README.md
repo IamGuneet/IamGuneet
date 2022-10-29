@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning React and Backend WebDev 
+- 🌱 I’m currently exploring Dev Ops
 - 💬 Ask me about Web Dev .
 - ⚡ Fun fact: Punjabi names are unisexual.
 -
