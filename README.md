@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 -->
 -  I’m currently learning Full Stack Web Dev
 -  Ask me about Web Dev .
--  Fun fact: Punjabi names are unisexual.
 -
 -
 -
