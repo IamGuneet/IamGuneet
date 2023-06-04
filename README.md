@@ -19,3 +19,4 @@ Do recommend changes and reviews for my repos.
 ```
 
 - Linkedin : https://www.linkedin.com/in/guneet-singh-941278229/
+- Email id: guneet.iam@gmail.com
