@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - Front-end Web Dev(React js)
 - Back-end Web Dev(Node js)
 
+### Checkout 
+- [Credible Tech Learning Resources](https://github.com/IamGuneet/Creadible-Tech-Resources)
 ```
 Do recommend changes and reviews for my repos.
 ```
