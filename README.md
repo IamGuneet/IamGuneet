@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 ## Welcome to my GitHub profile!
 
 ### About Me
--  I’m currently learning what to learn.
--  I'm interested in Generative AI and Web 3.
+-  I’m currently learning about Cloud Engineering on Aws.
 
 ### Skills
 - Front-end Web Dev(React js)
