@@ -25,6 +25,6 @@ Do recommend changes and reviews for my repos.
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Connect with me on
 - Linkedin: https://www.linkedin.com/in/guneet-singh-941278229/
-- Email id: guneet.iam@gmail.com
+- Email id: guneet.singh0422@gmail.com
 
 #### Feel free to reach out if you have any questions or just want to say hi!
