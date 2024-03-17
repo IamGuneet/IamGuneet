@@ -1,5 +1,5 @@
-# Hi there 👋
-# I am Guneet Singh, a University Under Grad student, and Developer.
+# Hello
+# I am Guneet , an Under Grad student and Developer.
 
 
 <!--
@@ -10,11 +10,14 @@ Here are some ideas to get you started:
 ## Welcome to my GitHub profile!
 
 ### About Me
--  I’m currently learning about Cloud Engineering on Aws.
+-  I’m currently learning ML and Cloud computing.
 
 ### Skills
-- Front-end Web Dev(React js)
-- Back-end Web Dev(Node js)
+- Front-end Web Dev
+- Back-end Web Dev
+- Shell Scripting (linux)
+- Machine Learning (Supervised)
+- Docker
 
 ### Checkout 
 - [Credible Tech Learning Resources](https://github.com/IamGuneet/Creadible-Tech-Resources)
