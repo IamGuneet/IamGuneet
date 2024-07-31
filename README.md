@@ -1,5 +1,5 @@
-# Hello
-# I am Guneet , an Under Grad student and Developer.
+
+# Hi , I am Guneet , an Under Grad Student and Developer
 
 
 <!--
@@ -7,27 +7,31 @@
 
 Here are some ideas to get you started:
 -->
-## Welcome to my GitHub profile!
+## Here's a glimpse about me!
 
 ### About Me
--  I’m currently learning ML and Cloud computing.
+- I like gardening and animal's 
+-  Currently into Dev-Ops and Cloud-computing
+  
 
 ### Skills
 - Front-end Web Dev
 - Back-end Web Dev
-- Shell Scripting (linux)
-- Machine Learning (Supervised)
+- Amazon Web Services (AWS)
+- Shell/Bash Scripting
+- CI/CD Tools
+- Automation
 - Docker
 
 ### Checkout 
 - [Credible Tech Learning Resources](https://github.com/IamGuneet/Creadible-Tech-Resources)
 ```
-Do recommend changes and reviews for my repos.
+ // Do recommend changes and reviews for my repos.
 ```
 ### Let's Connect
+- [Linkedin](https://www.linkedin.com/in/guneet-singh-941278229/)
+- [Email id](guneet.singh0422@gmail.com)
 
-I'm always open to collaborating on interesting projects or discussing new ideas. Connect with me on
-- Linkedin: https://www.linkedin.com/in/guneet-singh-941278229/
-- Email id: guneet.singh0422@gmail.com
-
-#### Feel free to reach out if you have any questions or just want to say hi!
+```
+//  Feel free to reach out if you have any questions or just want to say hi! 
+```
