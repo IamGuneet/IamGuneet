@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 ## Here's a glimpse about me!
 
 ### About Me
-- I like gardening and animal's 
--  Currently into Dev-Ops and Cloud-computing
+-  Currently into Dev-Ops , Data Analytics and Cloud-computing
   
 
 ### Skills
