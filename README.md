@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ## Here's a glimpse about me!
 
 ### About Me
--  Currently into Dev-Ops , Data Analytics and Cloud-computing
+-  Currently into Data Analytics and AI/ML . I have worked on projects with skills mentioned 
   
 
 ### Skills
@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - CI/CD Tools
 - Automation
 - Docker
+- Machine Learning , OCR models
+
 
 ### Checkout 
 - [Credible Tech Learning Resources](https://github.com/IamGuneet/Creadible-Tech-Resources)
