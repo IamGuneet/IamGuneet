@@ -9,15 +9,13 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-> 📊 *Turning raw data into decisions that matter*
+>  *Turning raw data into decisions that matter*
 
 ---
 
 ##  About Me
 
--  I love finding patterns in messy datasets and building dashboards that tell a story
--  Currently seeking **Data Analyst** internships & full-time roles
--  Hyderabad, India
+-  I like finding patterns in messy datasets and building dashboards that tell a story
 
 ---
 
